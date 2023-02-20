@@ -1,3 +1,0 @@
-displayName = TutorialMod
-author = JWJ212
-version = 0.1
