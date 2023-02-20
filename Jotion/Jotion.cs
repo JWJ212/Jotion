@@ -1,8 +1,8 @@
 using Terraria.ModLoader;
 
-namespace TutorialMod
+namespace Jotion
 {
-	public class TutorialMod : Mod
+	public class Jotion : Mod
 	{
 	}
 }

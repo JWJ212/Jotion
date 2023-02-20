@@ -1,0 +1,18 @@
+
+Mods: {
+	Jotion: {
+		Buffs: {
+			DamageBuff: {
+				DisplayName: James Power
+				Description: Holy Fuck.
+			}
+		}
+
+		Items: {
+			Jotion: {
+				DisplayName: Jotion
+				Tooltip: I am retarded.
+			}
+		}
+	}
+}
